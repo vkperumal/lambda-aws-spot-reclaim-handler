@@ -1,4 +1,4 @@
-# ec2-spot-reclaim-handler
+# lambda-aws-spot-reclaim-handler
 
 To test the script locally you can use [python-lambda-local](https://pypi.org/project/python-lambda-local/)
 

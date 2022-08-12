@@ -1,4 +1,4 @@
-# ec2-spot-reclaim-handler
+# lambda-aws-spot-reclaim-handler
 
 A Lambda Function to handle AWS Spot Instance Reclaim efficiently on Kubernetes workloads
 

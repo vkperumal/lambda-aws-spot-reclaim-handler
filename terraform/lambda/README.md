@@ -1,4 +1,4 @@
-# ec2-spot-reclaim-handler
+# lambda-aws-spot-reclaim-handler
 
 This directory holds the terraform code to create Lambda function along with all the necessary components.
 
